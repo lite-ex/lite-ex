@@ -4,7 +4,7 @@
 
 <!-- 🩸 Custom SVG Death Note Banner -->
 <p align="center">
-  <img src="Ryuk image.jpg" width="100%" />
+  <img src="Ryuk Image.jpg" width="100%" />
 </p>
 
 <!-- 🧩 Animated Typing Intro -->
