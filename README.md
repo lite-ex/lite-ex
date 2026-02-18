@@ -4,7 +4,7 @@
 
 <!-- 🩸 Custom SVG Death Note Banner -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=LITE-EX&width=900&height=300&fontSize=80&theme=dark&fontColor=ff0000&backgroundColor=000000" />
+  <img src="Ryuk image.jpg" width="100%" />
 </p>
 
 <!-- 🧩 Animated Typing Intro -->
