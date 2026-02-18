@@ -50,4 +50,34 @@ Every doubt is answered.
 ---
 
 # 🕯 Rules of the Notebook
+I. The name of the problem must be written clearly.
+II. The logic must be understood before execution.
+III. If the logic is correct, the output shall obey.
+IV. Compilation errors will not survive.
+V. Confusion will be rewritten.
+VI. Undefined behavior shall be judged.
+VII. Only correct execution earns existence.
+
+
+---
+
+## 🩸 Execution Philosophy
+Wrong Logic → Eliminated
+Runtime Error → Eliminated
+Compilation Error → Eliminated
+Ambiguity → Eliminated
+
+
+Only **correct output** survives.
+
+---
+
+## 🌑 Final Judgment
+
+> This notebook does not forgive careless logic.  
+> It corrects it.
+
+<p align="center">
+  🖤 Made with precision. Powered by logic. Ruled by justice.
+</p>
 
